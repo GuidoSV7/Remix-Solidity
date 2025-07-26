@@ -212,7 +212,7 @@ Nuevo ratio: Precio de TokenA aumenta
 
 ## 👨‍💻 Autor
 
-Proyecto desarrollado como parte del trabajo final del curso de Solidity.
+Proyecto desarrollado como parte del trabajo final del modulo 3 del curso de Solidity.
 
 ## 📄 Licencia
 
